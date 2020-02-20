@@ -5,7 +5,7 @@
 
 <p>At the end of this course, students will be able to write well-formed XML documents, validate and enforce business rules using XML schemas</p>
 
-<p>Learn and master the XML and XML Schema technologies in this comprehensive course.
+<p><strong>Learn and master the XML and XML Schema technologies in this comprehensive course.</strong>
   <ul>
     <li>Understand what,why and when to use XML</li>
     <li>Work on a XML Use-case and master the various concepts and syntax of XML Components.</li>
