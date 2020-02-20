@@ -1,8 +1,10 @@
 ## Description
 <p>
-  <strong>XML stands for eXtensible Markup Language.</strong><br>
-  <strong>XML was designed to store and transport data.</strong><br>
-  <strong>XML was designed to be both human- and machine-readable.</strong><br>
+  <ul>
+    <li><strong>XML stands for eXtensible Markup Language.</strong></li>
+    <li><strong>XML was designed to store and transport data.</strong></li>
+    <li><strong>XML was designed to be both human- and machine-readable.</strong></li>
+  </ul>
 </p>
 
 <p>This course is primarily targeted at students needing to understand the syntax and concepts behind XML and XML Schemas. This course is also for anyone who want to learn how to use XML Schemas to define the structure of XML languages and how to validate XML documents against XML schemas.</p>
