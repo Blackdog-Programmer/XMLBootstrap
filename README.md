@@ -1,4 +1,10 @@
 ## Description
+<p>
+  XML stands for eXtensible Markup Language.<br>
+  XML was designed to store and transport data.<br>
+  XML was designed to be both human- and machine-readable.<br>
+</p>
+
 <p>This course is primarily targeted at students needing to understand the syntax and concepts behind XML and XML Schemas. This course is also for anyone who want to learn how to use XML Schemas to define the structure of XML languages and how to validate XML documents against XML schemas.</p>
 
 <p>XML has become a widely used standard for storing and exchanging information on the internet. Knowing how to work with XML has become a core skill that every developer needs to have. In this course, we'll start off by learning about what XML is and does, and some of its advantages.</p>
