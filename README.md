@@ -1,17 +1,26 @@
-## Description
+## Overview
 <p>
-  <ul>
-    <li><strong>XML stands for eXtensible Markup Language.</strong></li>
-    <li><strong>XML was designed to store and transport data.</strong></li>
-    <li><strong>XML was designed to be both human- and machine-readable.</strong></li>
-    <li><strong>XML is often used for distributing data over the Internet.</strong></li>
-    <li><strong>XML is just information wrapped in tags</strong></li>
-    <li><strong>XML Does Not Use Predefined Tags</strong></li>
-  </ul>
+  <h3>What is XML?</h3>
+    <ul>
+      <li><strong>XML stands for eXtensible Markup Language.</strong></li>
+      <li><strong>XML was designed to store and transport data.</strong></li>
+      <li><strong>XML was designed to be both human- and machine-readable.</strong></li>
+      <li><strong>XML is often used for distributing data over the Internet.</strong></li>
+      <li><strong>XML is just information wrapped in tags</strong></li>
+      <li><strong>XML Does Not Use Predefined Tags</strong></li>
+    </ul>
   
   <kbd>
     <img src="https://www.novixys.com/library/xml_mapping.1/XMLSample.jpg" alt="xml sample image">
   </kbd>
+  
+  <h3>XML Simplifies Things</h3>
+    <ul>
+      <li><strong>It simplifies data sharing.</strong></li>
+      <li><strong>It simplifies data transport.</strong></li>
+      <li><strong>It simplifies platform changes.</strong></li>
+      <li><strong>It simplifies data availability.</strong></li>
+    </ul>  
 </p>
 
 
