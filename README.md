@@ -1,6 +1,6 @@
 ## 0. References
 <ul>
-  <li><a href="https://www.w3schools.com/xml/">w3schools.com XML Tutorial</a></li>
+  <li><a href="https://www.w3schools.com/xml/">W3schools XML Tutorial</a></li>
   <li><a href=""> </a></li>
   <li><a href=""> </a></li>
   <li><a href=""> </a></li>
