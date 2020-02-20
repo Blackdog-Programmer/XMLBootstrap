@@ -23,7 +23,9 @@
     </ul>
     
    <h3>XML Tree Structure</h3>
-    <img src="https://www.w3schools.com/xml/nodetree.gif" alt="XML tree structure sample image">
+    <kbd>
+      <img src="https://www.w3schools.com/xml/nodetree.gif" alt="XML tree structure sample image">
+    </kbd>
 </p>
 
 
