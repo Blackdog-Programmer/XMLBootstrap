@@ -5,7 +5,10 @@
     <li><strong>XML was designed to store and transport data.</strong></li>
     <li><strong>XML was designed to be both human- and machine-readable.</strong></li>
     <li><strong>XML is often used for distributing data over the Internet.</strong></li>
+    <li><strong>XML is just information wrapped in tags</strong></li>
   </ul>
+  
+  <img src="https://www.novixys.com/library/xml_mapping.1/XMLSample.jpg" alt="xml sample image">
 </p>
 
 
