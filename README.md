@@ -17,7 +17,7 @@
   </ul>
 </p>
 
-<p>Mastering XML and XML Schema Definition for Professionals:<br>
+<p><strong>Mastering XML and XML Schema Definition for Professionals:</strong><br>
 XML was designed to store and transport data.A Schema validates a XML document and acts as a contract between two parties using XML.
 
 Any developer or analyst at any level can access the key lessons and concepts in this course and learn to write xml and xml schema documents.</p>
