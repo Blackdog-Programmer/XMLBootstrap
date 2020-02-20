@@ -20,7 +20,10 @@
       <li><strong>It simplifies data transport.</strong></li>
       <li><strong>It simplifies platform changes.</strong></li>
       <li><strong>It simplifies data availability.</strong></li>
-    </ul>  
+    </ul>
+    
+   <h3>XML Tree Structure</h3>
+    <img src="https://www.w3schools.com/xml/nodetree.gif" alt="XML tree structure sample image">
 </p>
 
 
