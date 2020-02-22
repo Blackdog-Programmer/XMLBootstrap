@@ -7,11 +7,17 @@
 		<element name="Patient" type="tns:Patient"/>
 			<complexType name="Patient">
 				<sequence>
-					<element name="name" type="string"/>
+					<element name="name" type="tns:String15Chars"/>
 					<element name="age" type="int"/>
 					<element name="email" type="string"/>
 					<element name="gender" type="string"/>
 					<element name="phone" type="string"/>																				
 				</sequence>
 			</complexType>
+			
+			<simpleType name="String15Chars">
+				<restriction base="string">
+					<maxLength value="15"/>
+				</restriction>
+			</simpleType>
 </schema>
