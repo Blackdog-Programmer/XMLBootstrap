@@ -3,13 +3,27 @@
 <DriverLicense status="active">
 	<Number>12345</Number>
 	<FirstName>SANG CHUL</FirstName>
+	
 	<Lastname>Song</Lastname>
+	
 	<DateOfBirt>17/September/1990</DateOfBirt>
+	
 	<VehicleType>Car</VehicleType>
+	
 	<DateOfIssue>10/June/2010</DateOfIssue>
+	
 	<ExpireDate>17/May/2050</ExpireDate>
+	
 	<![CDATA[
 		This is driver license photo image in server
 	]]>
 	<Photo location="servername/filename"/>
+	
+	<Address>
+		<street>Hancheon-ro 2-gil</street>
+		<city>Seoul</city>
+		<state>Seoul</state>
+		<country>South Korea</country>
+		<zipcode>02633</zipcode>
+	</Address>
 </DriverLicense>
