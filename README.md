@@ -46,7 +46,12 @@
       <li>metadata (data about data) should be stored as attributes, and the data itself should be stored as elements.</li>
     </ul>
   </li>
-  <li><a href=""></a></li>
+  <li><a href="https://www.w3schools.com/xml/xml_namespaces.asp">XML Namesapce</a>
+    <ul>
+      <li>Name conflicts in XML can easily be avoided using a name prefix.</li>
+      <li>The namespace can be defined by an <strong>xmlns</strong> attribute in the start tag of an element(xmlns:prefix="URI")</li>
+    </ul>
+  </li>
   <li><a href=""></a></li>
   <li><a href=""></a></li>
   <li><a href=""></a></li>
