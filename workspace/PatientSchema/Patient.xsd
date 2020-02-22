@@ -15,9 +15,8 @@
 					<element name="paymentType" type="tns:PaymentType"/>																			
 				</sequence>
 				
-				<attribute name="id" type="int" use="required"/>
+				<attribute name="id" type="tns:Id" use="required"/>
 			</complexType>
-			
 			
 			<complexType name="PaymentType">
 				<choice>
@@ -43,6 +42,12 @@
 				<restriction base="string">
 					<enumeration value="M"/>
 					<enumeration value="F"/>				
+				</restriction>
+			</simpleType>
+			
+			<simpleType name="Id">
+				<restriction base="int">
+					<pattern value="[0-9]*"></pattern>
 				</restriction>
 			</simpleType>
 </schema>
