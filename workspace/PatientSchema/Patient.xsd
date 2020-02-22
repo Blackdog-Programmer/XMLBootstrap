@@ -4,6 +4,8 @@
 		xmlns:tns="http://www.blackdog.com/Patient" 
 		elementFormDefault="qualified">
 		
+		<include schemaLocation="PaymentType.xsd"/>
+		
 		<element name="Patient" type="tns:Patient"/>
 			<complexType name="Patient">
 				<sequence>
@@ -18,19 +20,6 @@
 				<attribute name="id" type="tns:Id" use="required"/>
 			</complexType>
 			
-			<complexType name="PaymentType">
-				<choice>
-					<element name="cash" type="decimal"/>
-					<element name="insurance" type="tns:Insurance"/>					
-				</choice>
-			</complexType>
-			
-			<complexType name="Insurance">
-				<all>
-					<element name="provider" type="string"/>
-					<element name="limit" type="decimal"/>
-				</all>
-			</complexType>
 			
 			<simpleType name="String15Chars">
 				<restriction base="string">
