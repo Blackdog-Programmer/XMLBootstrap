@@ -1,3 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <DriverLicense>
+	<Number>12345</Number>
+	<FirstName>SANG CHUL</FirstName>
+	<Lastname>Song</Lastname>
+	<DateOfBirt>17/September/1990</DateOfBirt>
+	<VehicleType>Car</VehicleType>
+	<DateOfIssue>10/June/2010</DateOfIssue>
+	<ExpireDate>17/May/2050</ExpireDate>
 </DriverLicense>
