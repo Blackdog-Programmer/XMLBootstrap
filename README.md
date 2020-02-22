@@ -97,7 +97,7 @@
 </ul>
 
 
-## 3. XML Schema Tutorial
+## 3. XML Schema Definition (XSD) Tutorial
 <ul>
   <li a href=""> </a></li>
   <li a href=""> </a></li>
