@@ -73,13 +73,13 @@
     </ul>
   </li>
   <li><a href="https://www.w3schools.com/xml/xml_dom.asp">XML DOM(Doument Object Model)</a>
-    <kbd>
-      <img src="https://www.w3schools.com/xml/nodetree.gif" alt="XML DOM image">
-    </kbd>
     <ul>
       <li>The XML DOM (Document Object Model) defines the properties and methods for accessing and editing XML.</li>
     </ul>
   </li>
+      <kbd>
+      <img src="https://www.w3schools.com/xml/nodetree.gif" alt="XML DOM image">
+      </kbd>
   <li><a href=""></a></li>
   <li><a href=""></a></li>
   <li><a href=""></a></li>
