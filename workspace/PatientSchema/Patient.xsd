@@ -11,8 +11,23 @@
 					<element name="age" type="int"/>
 					<element name="email" type="string"/>
 					<element name="gender" type="tns:Gender"/>
-					<element name="phone" type="string"/>																				
+					<element name="phone" type="string"/>	
+					<element name="paymentType" type="tns:PaymentType"/>																			
 				</sequence>
+			</complexType>
+			
+			<complexType name="PaymentType">
+				<choice>
+					<element name="cash" type="decimal"/>
+					<element name="insurance" type="tns:Insurance"/>					
+				</choice>
+			</complexType>
+			
+			<complexType name="Insurance">
+				<all>
+					<element name="provider" type="string"/>
+					<element name="limit" type="decimal"/>
+				</all>
 			</complexType>
 			
 			<simpleType name="String15Chars">
