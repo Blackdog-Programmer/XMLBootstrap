@@ -36,7 +36,7 @@
     <ul>
       <li><a href="https://www.tutorialspoint.com/java_xml/java_dom_parser.htm">Java DOM(Document Object Model) Parser</a></li>
       <li><a href="https://www.tutorialspoint.com/java_xml/java_sax_parser.htm">Java SAX(Simple API for XML Parsing) Parser</a></li>
-      <li><a href="https://www.tutorialspoint.com/java_xml/java_stax_parser.htm">Java STAX(Streaming API for XML Parsing) Parser</a></li>
+      <li><a href="https://www.tutorialspoint.com/java_xml/java_stax_parser.htm"><Strong>Java STAX(Streaming API for XML Parsing) Parser</strong></a></li>
     </ul>
   </li>
 </ul>
