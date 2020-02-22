@@ -99,12 +99,12 @@
 
 ## 3. XML Schema Definition (XSD) Tutorial
 <ul>
-  <li a href="https://www.w3schools.com/xml/schema_intro.asp">What is an XML Schema?</a></li>
-  <li a href="https://www.w3schools.com/xml/schema_howto.asp">XSD How To?</a></li>
-  <li a href="https://www.w3schools.com/xml/schema_schema.asp">XSD - The <schema> Element</a></li>
-  <li a href="https://www.w3schools.com/xml/schema_simple.asp">XSD Simple Elements</a></li>
-  <li a href="https://www.w3schools.com/xml/schema_simple_attributes.asp">XSD Attributes</a></li>
-  <li a href="https://www.w3schools.com/xml/schema_facets.asp">XSD Restrictions/Facets</a></li>
+  <li><a href="https://www.w3schools.com/xml/schema_intro.asp">What is an XML Schema?</a></li>
+  <li><a href="https://www.w3schools.com/xml/schema_howto.asp">XSD How To?</a></li>
+  <li><a href="https://www.w3schools.com/xml/schema_schema.asp">XSD - The <schema> Element</a></li>
+  <li><a href="https://www.w3schools.com/xml/schema_simple.asp">XSD Simple Elements</a></li>
+  <li><a href="https://www.w3schools.com/xml/schema_simple_attributes.asp">XSD Attributes</a></li>
+  <li><a href="https://www.w3schools.com/xml/schema_facets.asp">XSD Restrictions/Facets</a></li>
 </ul>
 
 ## 4. Important XML Standards
