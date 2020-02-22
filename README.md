@@ -65,11 +65,21 @@
       </li>
     </ul>
   </li>
-  <li><a href="https://www.w3schools.com/xml/xml_parser.asp">XML Parser</a></li>
-  <li><a href="https://www.w3schools.com/xml/xml_dom.asp">XML DOM</a></li>
+  <li><a href="https://www.w3schools.com/xml/xml_parser.asp">XML Parser</a>
+    <ul>
+      <li>Before an XML document can be accessed, it must be loaded into an XML DOM object.</li>
+      <li>All modern browsers have a built-in XML parser that can convert text into an XML DOM object.</li>
+      <li>The <strong>XMLHttpRequest Object</strong> has a built in XML Parser.</li>
+    </ul>
+  </li>
+  <li><a href="https://www.w3schools.com/xml/xml_dom.asp">XML DOM(Doument Object Model)</a>
     <kbd>
       <img src="https://www.w3schools.com/xml/nodetree.gif" alt="XML DOM image">
     </kbd>
+    <ul>
+      <li>The XML DOM (Document Object Model) defines the properties and methods for accessing and editing XML.</li>
+    </ul>
+  </li>
   <li><a href=""></a></li>
   <li><a href=""></a></li>
   <li><a href=""></a></li>
