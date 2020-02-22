@@ -97,10 +97,21 @@
     <img src="https://www.w3schools.com/xml/nodetree.gif" alt="XML DOM image">
   </kbd><br>
   
-  <li><a href=""></a></li>
-  <li><a href=""></a></li>
-  <li><a href=""></a></li>
-  <li><a href=""></a></li>
+  <li><a href="https://www.w3schools.com/xml/xml_xpath.asp">XPath</a></li><br>
+  
+  <li><a href="https://www.w3schools.com/xml/xml_xslt.asp">XSLT</a></li><br>
+  
+  <li><a href="https://www.w3schools.com/xml/xml_xquery.asp">XQuery</a></li><br>
+  
+  <li><a href="https://www.w3schools.com/xml/xml_xlink.asp">XLink and XPointer</a></li><br>
+  
+  <li><a href="https://www.w3schools.com/xml/xml_validator.asp">XML Validator</a></li><br>
+  
+  <li><a href="https://www.w3schools.com/xml/xml_dtd.asp">XML DTD(Document Type Defintion)</a></li><br>
+  
+  <li><a href="https://www.w3schools.com/xml/xml_schema.asp">XML Schema</a></li><br>
+  
+  <li><a href="https://www.w3schools.com/xml/xml_server.asp">XML on the Server</a></li><br>
 </ul>
 
 
