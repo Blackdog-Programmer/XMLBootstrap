@@ -53,6 +53,22 @@
     </ul>
   </li>
   <li><a href="https://www.w3schools.com/xml/xml_display.asp">XML Display on Editor or Web browser</a></li>
+  <li><a href="">XML HttpRequest</a>
+    <ul>
+      <li>The XMLHttpRequest object can be used to request data from a web server.
+        <ul>
+          <li>Update a web page without reloading the page</li>
+          <li>Request data from a server - after the page has loaded</li>
+          <li>Receive data from a server  - after the page has loaded</li>
+          <li>Send data to a server - in the background</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li><a href=""></a></li>
+  <li><a href=""></a></li>
+  <li><a href=""></a></li>
+  <li><a href=""></a></li>
   <li><a href=""></a></li>
   <li><a href=""></a></li>
 </ul>
