@@ -7,5 +7,5 @@
 	<VehicleType>Car</VehicleType>
 	<DateOfIssue>10/June/2010</DateOfIssue>
 	<ExpireDate>17/May/2050</ExpireDate>
-	<Photo location="servername/filename"></Photo>
+	<Photo location="servername/filename"/>
 </DriverLicense>
