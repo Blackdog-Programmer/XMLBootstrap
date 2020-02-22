@@ -34,9 +34,9 @@
   <li><a href="https://www.w3schools.com/xml/">W3schools XML Tutorial</a></li>
   <li><a href="https://www.oracle.com/technetwork/java/intro-140052.html">JAXP(Java Application XML Parser)</a>
     <ul>
-      <li><a href="https://www.tutorialspoint.com/java_xml/java_dom_parser.htm">Java DOM Parser</a></li>
-      <li><a href="https://www.tutorialspoint.com/java_xml/java_sax_parser.htm">Java SAX Parser</a></li>
-      <li><a href="https://www.tutorialspoint.com/java_xml/java_stax_parser.htm">Java STAX Parser</a></li>
+      <li><a href="https://www.tutorialspoint.com/java_xml/java_dom_parser.htm">Java DOM(Document Object Model) Parser</a></li>
+      <li><a href="https://www.tutorialspoint.com/java_xml/java_sax_parser.htm">Java SAX(Simple API for XML Parsing) Parser</a></li>
+      <li><a href="https://www.tutorialspoint.com/java_xml/java_stax_parser.htm">Java STAX(Streaming API for XML Parsing) Parser</a></li>
     </ul>
   </li>
 </ul>
