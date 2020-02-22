@@ -83,6 +83,7 @@
   <li><a href="https://www.w3schools.com/xml/xml_dom.asp">XML DOM(Doument Object Model)</a>
     <ul>
       <li>The XML DOM (Document Object Model) defines the properties and methods for accessing and editing XML.</li>
+      <li>"The W3C Document Object Model (DOM) is a platform and language-neutral interface that allows programs and scripts to dynamically access and update the content, structure, and style of a document."</li>
     </ul>
   </li>
   <kbd>
