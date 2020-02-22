@@ -10,7 +10,7 @@
 					<element name="name" type="tns:String15Chars"/>
 					<element name="age" type="int"/>
 					<element name="email" type="string"/>
-					<element name="gender" type="string"/>
+					<element name="gender" type="tns:Gender"/>
 					<element name="phone" type="string"/>																				
 				</sequence>
 			</complexType>
@@ -18,6 +18,13 @@
 			<simpleType name="String15Chars">
 				<restriction base="string">
 					<maxLength value="15"/>
+				</restriction>
+			</simpleType>
+			
+			<simpleType name="Gender">
+				<restriction base="string">
+					<enumeration value="M"/>
+					<enumeration value="F"/>				
 				</restriction>
 			</simpleType>
 </schema>
