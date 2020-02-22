@@ -39,6 +39,12 @@
 <ul>
   <li><a href="https://www.w3schools.com/xml/xml_syntax.asp">XML Syntax</a></li>
   <li><a href="https://www.w3schools.com/xml/xml_schema.asp">XML Schema</a></li>
+  <li><a href="https://www.w3schools.com/xml/xml_elements.asp">XML Elements</a></li>
+  <li><a href=""></a></li>
+  <li><a href=""></a></li>
+  <li><a href=""></a></li>
+  <li><a href=""></a></li>
+  <li><a href=""></a></li>
 </ul>
 
 
