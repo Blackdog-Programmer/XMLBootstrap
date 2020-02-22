@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- This is xml document for driver license information -->
+<!-- This is XML document for driver license information -->
 <DriverLicense status="active">
 	<Number>12345</Number>
 	<FirstName>SANG CHUL</FirstName>
@@ -8,5 +8,8 @@
 	<VehicleType>Car</VehicleType>
 	<DateOfIssue>10/June/2010</DateOfIssue>
 	<ExpireDate>17/May/2050</ExpireDate>
+	<![CDATA[
+		This is driver license photo image in server
+	]]>
 	<Photo location="servername/filename"/>
 </DriverLicense>
