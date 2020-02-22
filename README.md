@@ -1,4 +1,4 @@
-## Overview
+## 0. Overview
 <p>
   <h3>What is XML?</h3>
     <ul>
@@ -29,12 +29,12 @@
 </p>
 
 
-## 0. References
+## 1. References
 <ul>
   <li><a href="https://www.w3schools.com/xml/">W3schools XML Tutorial</a></li>
 </ul>
 
-## 1. Important XML Standards
+## 2. Important XML Standards
   <ul>
     <li><a href="https://www.w3schools.com/xml/ajax_intro.asp">XML AJAX</a></li>
     <li><a href="https://www.w3schools.com/xml/dom_intro.asp">XML DOM</a></li>
@@ -46,7 +46,7 @@
     <li><a href="https://www.w3schools.com/xml/xml_services.asp">XML Services</a></li>
   </ul>
 
-## 2. Learn by Examples
+## 3. Learn by Examples
   <ul>
     <li><a href="https://www.w3schools.com/xml/xml_examples.asp">XML Examples</a></li>
     <li><a href="https://www.w3schools.com/xml/ajax_examples.asp">AJAX Examples</a></li>
@@ -55,4 +55,10 @@
     <li><a href="https://www.w3schools.com/xml/xsl_examples.asp">XSLT Examples</a></li>
   </ul>
 
-## [3. XML Quiz Test](https://www.w3schools.com/xml/xml_quiz.asp)
+## [4. XML Quiz Test](https://www.w3schools.com/xml/xml_quiz.asp)
+
+
+## Q/A
+<ul>
+  <li><a href="https://stackoverflow.com/questions/5578645/what-does-the-standalone-directive-mean-in-xml">What does the 'standalone' directive mean in XML?</a></li>
+</ul>
