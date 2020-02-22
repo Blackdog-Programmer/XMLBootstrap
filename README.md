@@ -37,22 +37,28 @@
 
 ## 2. XML Tutorial
 <ul>
-  <li><a href="https://www.w3schools.com/xml/xml_syntax.asp">XML Syntax</a></li>
-  <li><a href="https://www.w3schools.com/xml/xml_schema.asp">XML Schema</a></li>
-  <li><a href="https://www.w3schools.com/xml/xml_elements.asp">XML Elements</a></li>
+  <li><a href="https://www.w3schools.com/xml/xml_syntax.asp">XML Syntax</a></li><br>
+  
+  <li><a href="https://www.w3schools.com/xml/xml_schema.asp">XML Schema</a></li><br>
+  
+  <li><a href="https://www.w3schools.com/xml/xml_elements.asp">XML Elements</a></li><br>
+  
   <li><a href="https://www.w3schools.com/xml/xml_attributes.asp">XML Attributes</a>
     <ul>
       <li>There are no rules about when to use attributes or when to use elements in XML.</li>
       <li>metadata (data about data) should be stored as attributes, and the data itself should be stored as elements.</li>
     </ul>
-  </li>
+  </li><br>
+  
   <li><a href="https://www.w3schools.com/xml/xml_namespaces.asp">XML Namesapce</a>
     <ul>
       <li>Name conflicts in XML can easily be avoided using a name prefix.</li>
       <li>The namespace can be defined by an <strong>xmlns</strong> attribute in the start tag of an element: <strong>xmlns:prefix="URI"</strong></li>
     </ul>
-  </li>
-  <li><a href="https://www.w3schools.com/xml/xml_display.asp">XML Display on Editor or Web browser</a></li>
+  </li><br>
+  
+  <li><a href="https://www.w3schools.com/xml/xml_display.asp">XML Display on Editor or Web browser</a></li><br>
+  
   <li><a href="">XML HttpRequest</a>
     <ul>
       <li>The XMLHttpRequest object can be used to request data from a web server.
@@ -64,22 +70,25 @@
         </ul>
       </li>
     </ul>
-  </li>
+  </li><br>
+  
   <li><a href="https://www.w3schools.com/xml/xml_parser.asp">XML Parser</a>
     <ul>
       <li>Before an XML document can be accessed, it must be loaded into an XML DOM object.</li>
       <li>All modern browsers have a built-in XML parser that can convert text into an XML DOM object.</li>
       <li>The <strong>XMLHttpRequest Object</strong> has a built in XML Parser.</li>
     </ul>
-  </li>
+  </li><br>
+  
   <li><a href="https://www.w3schools.com/xml/xml_dom.asp">XML DOM(Doument Object Model)</a>
     <ul>
       <li>The XML DOM (Document Object Model) defines the properties and methods for accessing and editing XML.</li>
     </ul>
   </li>
-      <kbd>
-      <img src="https://www.w3schools.com/xml/nodetree.gif" alt="XML DOM image">
-      </kbd>
+  <kbd>
+    <img src="https://www.w3schools.com/xml/nodetree.gif" alt="XML DOM image">
+  </kbd><br>
+  
   <li><a href=""></a></li>
   <li><a href=""></a></li>
   <li><a href=""></a></li>
