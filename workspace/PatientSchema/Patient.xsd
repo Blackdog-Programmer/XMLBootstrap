@@ -14,7 +14,10 @@
 					<element name="phone" type="string" maxOccurs="unbounded" />	
 					<element name="paymentType" type="tns:PaymentType"/>																			
 				</sequence>
+				
+				<attribute name="id" type="int"/>
 			</complexType>
+			
 			
 			<complexType name="PaymentType">
 				<choice>
