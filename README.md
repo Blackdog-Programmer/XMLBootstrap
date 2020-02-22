@@ -34,10 +34,13 @@
   <li><a href="https://www.w3schools.com/xml/">W3schools XML Tutorial</a></li>
 </ul>
 
+
 ## 2. XML Tutorial
 <ul>
-  <li><a href="https://www.w3schools.com/xml/xml_syntax.asp">XML Syntax</a><li>
+  <li><a href="https://www.w3schools.com/xml/xml_syntax.asp">XML Syntax</a></li>
+  <li><a href="https://www.w3schools.com/xml/xml_schema.asp">XML Schema</a></li>
 </ul>
+
 
 ## 3. Important XML Standards
   <ul>
