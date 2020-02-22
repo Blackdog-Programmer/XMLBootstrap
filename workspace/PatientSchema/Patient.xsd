@@ -3,4 +3,15 @@
 		targetNamespace="http://www.blackdog.com/Patient" 
 		xmlns:tns="http://www.blackdog.com/Patient" 
 		elementFormDefault="qualified">
+		
+		<element name="Patient" type="tns:Patient"/>
+			<complexType name="Patient">
+				<sequence>
+					<element name="name" type="string"/>
+					<element name="age" type="int"/>
+					<element name="email" type="string"/>
+					<element name="gender" type="string"/>
+					<element name="phone" type="string"/>																				
+				</sequence>
+			</complexType>
 </schema>
