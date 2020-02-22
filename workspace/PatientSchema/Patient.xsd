@@ -2,9 +2,12 @@
 <schema xmlns="http://www.w3.org/2001/XMLSchema" 
 		targetNamespace="http://www.blackdog.com/Patient" 
 		xmlns:tns="http://www.blackdog.com/Patient" 
+		xmlns:com="http://www.blackdog.com/Common" 	
 		elementFormDefault="qualified">
 		
 		<include schemaLocation="PaymentType.xsd"/>
+		
+		<import schemaLocation="Common.xsd" namespace="http://www.blackdog.com/Common"/>
 		
 		<element name="Patient" type="tns:Patient"/>
 			<complexType name="Patient">
@@ -17,7 +20,7 @@
 					<element name="paymentType" type="tns:PaymentType"/>																			
 				</sequence>
 				
-				<attribute name="id" type="tns:Id" use="required"/>
+				<attribute name="id" type="com:Id" use="required"/>
 			</complexType>
 			
 			
@@ -34,9 +37,4 @@
 				</restriction>
 			</simpleType>
 			
-			<simpleType name="Id">
-				<restriction base="int">
-					<pattern value="[0-9]*"></pattern>
-				</restriction>
-			</simpleType>
 </schema>
