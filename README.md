@@ -111,7 +111,7 @@
   
   <li><a href="https://www.w3schools.com/xml/xml_schema.asp">XML Schema</a></li><br>
   
-  <li><a href="https://www.w3schools.com/xml/xml_server.asp">XML on the Server</a></li><br>
+  <li><a href="https://www.w3schools.com/xml/xml_server.asp">XML on the Server</a></li>
 </ul>
 
 
