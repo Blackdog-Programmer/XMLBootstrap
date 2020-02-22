@@ -67,7 +67,9 @@
   </li>
   <li><a href="https://www.w3schools.com/xml/xml_parser.asp">XML Parser</a></li>
   <li><a href="https://www.w3schools.com/xml/xml_dom.asp">XML DOM</a></li>
-  <img src="https://www.w3schools.com/xml/nodetree.gif" alt="XML DOM image">
+    <kbd>
+      <img src="https://www.w3schools.com/xml/nodetree.gif" alt="XML DOM image">
+    </kbd>
   <li><a href=""></a></li>
   <li><a href=""></a></li>
   <li><a href=""></a></li>
