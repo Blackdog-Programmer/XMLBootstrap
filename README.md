@@ -52,7 +52,7 @@
       <li>The namespace can be defined by an <strong>xmlns</strong> attribute in the start tag of an element: <strong>xmlns:prefix="URI"</strong></li>
     </ul>
   </li>
-  <li><a href=""></a></li>
+  <li><a href="https://www.w3schools.com/xml/xml_display.asp">XML Display on Editor or Web browser</a></li>
   <li><a href=""></a></li>
   <li><a href=""></a></li>
 </ul>
