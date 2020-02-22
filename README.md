@@ -49,7 +49,7 @@
   <li><a href="https://www.w3schools.com/xml/xml_namespaces.asp">XML Namesapce</a>
     <ul>
       <li>Name conflicts in XML can easily be avoided using a name prefix.</li>
-      <li>The namespace can be defined by an <strong>xmlns</strong> attribute in the start tag of an element(xmlns:prefix="URI")</li>
+      <li>The namespace can be defined by an <strong>xmlns</strong> attribute in the start tag of an element: <strong>xmlns:prefix="URI"</strong></li>
     </ul>
   </li>
   <li><a href=""></a></li>
