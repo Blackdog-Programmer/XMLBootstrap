@@ -40,7 +40,12 @@
   <li><a href="https://www.w3schools.com/xml/xml_syntax.asp">XML Syntax</a></li>
   <li><a href="https://www.w3schools.com/xml/xml_schema.asp">XML Schema</a></li>
   <li><a href="https://www.w3schools.com/xml/xml_elements.asp">XML Elements</a></li>
-  <li><a href=""></a></li>
+  <li><a href="https://www.w3schools.com/xml/xml_attributes.asp">XML Attributes</a>
+    <ul>
+      <li>There are no rules about when to use attributes or when to use elements in XML.</li>
+      <li>metadata (data about data) should be stored as attributes, and the data itself should be stored as elements.</li>
+    </ul>
+  </li>
   <li><a href=""></a></li>
   <li><a href=""></a></li>
   <li><a href=""></a></li>
