@@ -58,7 +58,7 @@
 ### [0.3. XML Quiz Test](https://www.w3schools.com/xml/xml_quiz.asp)
 
 
-## 1. XML Concepts
+## 1. XML Tutorial
 <ul>
   <li><a href=""> </a></li>
   <li><a href=""> </a></li>
@@ -69,7 +69,7 @@
 </ul>
 
 
-## 2. XML Hands On
+## 2. XML AJAX
 <ul>
   <li><a href=""> </a></li>
   <li><a href=""> </a></li>
@@ -80,7 +80,7 @@
 </ul>
 
 
-## 3. XML Schema Definition Concepts
+## 3. XML DOM
 <ul>
   <li><a href=""> </a></li>
   <li><a href=""> </a></li>
@@ -91,7 +91,7 @@
 </ul>
 
 
-## 4. XML Schema Definition Hands On
+## 4. XML XPath Tutorial
 <ul>
   <li><a href=""> </a></li>
   <li><a href=""> </a></li>
@@ -102,7 +102,7 @@
 </ul>
 
 
-## 5. Creating Simple Types
+## 5. XSLT Tutorial
 <ul>
   <li><a href=""> </a></li>
   <li><a href=""> </a></li>
@@ -113,7 +113,7 @@
 </ul>
 
 
-## 6. Creating Complex Types
+## 6. XQuery Tutorial
 <ul>
   <li><a href=""> </a></li>
   <li><a href=""> </a></li>
@@ -124,7 +124,7 @@
 </ul>
 
 
-## 7. Attribute Types
+## 7. XSD Schema
 <ul>
   <li><a href=""> </a></li>
   <li><a href=""> </a></li>
@@ -135,7 +135,37 @@
 </ul>
 
 
-## 8. Including and Importing other Schemas
+## 8. XSD Complex
+<ul>
+  <li><a href=""> </a></li>
+  <li><a href=""> </a></li>
+  <li><a href=""> </a></li>
+  <li><a href=""> </a></li>
+  <li><a href=""> </a></li>
+  <li><a href=""> </a></li>
+</ul>
+
+## 9. XSD Data
+<ul>
+  <li><a href=""> </a></li>
+  <li><a href=""> </a></li>
+  <li><a href=""> </a></li>
+  <li><a href=""> </a></li>
+  <li><a href=""> </a></li>
+  <li><a href=""> </a></li>
+</ul>
+
+## 10. Web Services
+<ul>
+  <li><a href=""> </a></li>
+  <li><a href=""> </a></li>
+  <li><a href=""> </a></li>
+  <li><a href=""> </a></li>
+  <li><a href=""> </a></li>
+  <li><a href=""> </a></li>
+</ul>
+
+## 11. References
 <ul>
   <li><a href=""> </a></li>
   <li><a href=""> </a></li>
