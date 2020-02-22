@@ -1,11 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tns:Patient xmlns:tns="http://www.blackdog.com/Patient" 
- xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
- xsi:schemaLocation="http://www.blackdog.com/Patient Patient.xsd ">
- 
-  <tns:name>Newton</tns:name>
-  <tns:age>30</tns:age>
+<tns:Patient xmlns:tns="http://www.blackdog.com/Patient" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.blackdog.com/Patient Patient.xsd ">
+  <tns:name>Isaac Newton</tns:name>
+  <tns:age>22</tns:age>
   <tns:email>newton@gmail.com</tns:email>
   <tns:gender>M</tns:gender>
-  <tns:phone>+441234556789</tns:phone>
+  <tns:phone>+821032857642</tns:phone>
+  <tns:paymentType>
+    <tns:insurance>
+    	<tns:provider>AIX</tns:provider>
+    	<tns:limit>100000</tns:limit>
+    </tns:insurance>
+  </tns:paymentType>
 </tns:Patient>
